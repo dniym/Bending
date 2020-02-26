@@ -1,7 +1,5 @@
 ---
 
-ONE SUGGESTION PER POST PLEASE
-
 name: Ability Addition or Change Request
 about: Suggest a new bending move or a change to an existing move.
 title: "[Ability Request] - "
@@ -9,6 +7,7 @@ labels: enhancement
 assignees: dniym
 
 ---
+**PLEASE ONLY POST ONE SUGGESTION PER POST, FAILING TO DO SO WILL HAVE YOUR SUGGESTION MARKED AS INVALID**
 
 **Ability Name**
 The name for the ability you wish to see created or modified.
