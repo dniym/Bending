@@ -1,6 +1,5 @@
 ---
 
-ONLY POST ONE BUG PER POST OTHERWISE THE ENTIRE POST WILL BE MARKED INVALID. 
 name: Bug report
 about: Create a report to help us improve
 title: ''
@@ -8,6 +7,8 @@ labels: bug
 assignees: dniym
 
 ---
+
+**PLESE ONLY ONE BUG PER POST OTHERWISE YOUR ENTIRE ISSUE WILL BE MARKED INVALID**
 
 **Describe the bug**
 A clear and concise description of what the bug is.
