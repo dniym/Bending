@@ -1,4 +1,7 @@
 ---
+
+ONE SUGGESTION PER POST PLEASE
+
 name: Ability Addition or Change Request
 about: Suggest a new bending move or a change to an existing move.
 title: "[Ability Request] - "
