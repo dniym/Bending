@@ -1,8 +1,8 @@
 ---
 
 name: Bug report
-about: Create a report to help us improve
-title: '(ONE BUG PER POST)'
+about: Create a report to help us improve (ONLY ONE BUG PER POST!)
+title: ''
 labels: bug
 assignees: dniym
 
