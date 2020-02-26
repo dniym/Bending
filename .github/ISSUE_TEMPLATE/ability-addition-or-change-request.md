@@ -1,7 +1,7 @@
 ---
 
 name: Ability Addition or Change Request
-about: Suggest a new bending move or a change to an existing move.
+about: Suggest a new bending move or a change to an existing move. (ONE SUGGESTION PER POST)
 title: "[Ability Request] - "
 labels: enhancement
 assignees: dniym
